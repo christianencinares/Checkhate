@@ -1,0 +1,10 @@
+jupyter
+nltk
+pandas
+numpy
+plotly
+matplotlib
+sklearn
+keras
+seaborn
+# wordcloud
