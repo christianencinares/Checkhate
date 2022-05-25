@@ -6,13 +6,12 @@ CHECKHATE is an application that uses deep learning techniques to detect and cla
 This project is developed by: 
 
 A. Aloveros (THW)
-C. Encinares (THW)
-J. Doros (THW)
-R. Delos Reyes (THW)
 
-Thematic inspiration:
-SDG 3 - Good Health and Well-being.
-SDG 16 - Peace, Justice, and Strong Institutions.
+C. Encinares (THW)
+
+J. Doros (THW)
+
+R. Delos Reyes (THW)
 
 
 ## Installation
