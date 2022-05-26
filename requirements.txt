@@ -9,3 +9,7 @@ keras
 tensorflow
 seaborn
 wordcloud
+ipynb
+langdetect
+google_trans_new
+googletrans
