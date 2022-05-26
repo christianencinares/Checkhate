@@ -32,8 +32,6 @@ tweets = tweepy.Cursor(api.search_tweets,q=query,tweet_mode="extended").items(n)
 for tweet in tweets:
     print(tweet.id)
     print(tweet.full_text)
-    print(preprocess.re_punc(tweet.full_text))
-    print(preprocess.re_emoji(tweet.full_text))
     print(preprocess.simplify_text(tweet.full_text))
     
     if preprocess.simplify_text(tweet.full_text):
