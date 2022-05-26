@@ -11,7 +11,7 @@ This project is developed by:
 * R. Delos Reyes (THW)
 
 ## Installation
-You may opt to [activate a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) before installing the dependencies, .
+You may opt to [activate a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) before installing the dependencies.
 
 1. Open the terminal
 2. Change the directory to the project's root directory
