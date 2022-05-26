@@ -24,7 +24,7 @@ You may opt to [activate a virtual environment](https://packaging.python.org/gui
 
     - Download the .whl file compatible with your Python version and your windows distribution (32bit or 64bit) [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
     - Change your directory to the path containing the downloaded .whl file
-    - Run this command, replacing <filename> to the name of the .whl file previously downloaded (e.g. "wordcloud‑1.8.1‑cp310‑cp310‑win_amd64.whl"):
+    - Run this command, replacing <filename> to the name of the .whl file previously downloaded (e.g. `wordcloud‑1.8.1‑cp310‑cp310‑win_amd64.whl`):
   
     ```cmd
     > python -m pip install <filename>
