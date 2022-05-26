@@ -22,13 +22,13 @@ You may opt to [activate a virtual environment](https://packaging.python.org/gui
 ```
 4. You may encounter problems installing wordcloud. If that happens, follow these steps:
 
-  - Download the .whl file compatible with your Python version and your windows distribution (32bit or 64bit) [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
-  - Change your directory to the path containing the downloaded .whl file
-  - Run this command:
+    - Download the .whl file compatible with your Python version and your windows distribution (32bit or 64bit) [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
+    - Change your directory to the path containing the downloaded .whl file
+    - Run this command, replacing <filename> to the name of the .whl file previously downloaded (e.g. "wordcloud‑1.8.1‑cp310‑cp310‑win_amd64.whl"):
   
-  ```cmd
-  > python -m pip install <file>.whl
-  ```
+    ```cmd
+    > python -m pip install <filename>
+    ```
   
 ### Running the models
 
