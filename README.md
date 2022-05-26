@@ -5,10 +5,10 @@ CHECKHATE is an application that uses deep learning techniques to detect and cla
 
 This project is developed by: 
 
-*A. Aloveros (THW)
-*C. Encinares (THW)
-*J. Doros (THW)
-*R. Delos Reyes (THW)
+* A. Aloveros (THW)
+* C. Encinares (THW)
+* J. Doros (THW)
+* R. Delos Reyes (THW)
 
 ## Installation
 You may opt to [activate a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) before installing the dependencies, .
@@ -22,9 +22,9 @@ You may opt to [activate a virtual environment](https://packaging.python.org/gui
 ```
 4. You may encounter problems installing wordcloud. If that happens, follow these steps:
 
-  -Download the .whl file compatible with your Python version and your windows distribution (32bit or 64bit) [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
-  -Change your directory to the path containing the downloaded .whl file
-  -Run this command:
+  - Download the .whl file compatible with your Python version and your windows distribution (32bit or 64bit) [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
+  - Change your directory to the path containing the downloaded .whl file
+  - Run this command:
   
   ```cmd
   > python -m pip install <file>.whl
@@ -36,5 +36,5 @@ You may opt to [activate a virtual environment](https://packaging.python.org/gui
 ```cmd
 > jupyter notebook
 ```
-2. Go to "\models"
+2. Go to "models"
 3. Click on your desired model to run: LSTM or NaiveBayes
