@@ -13,3 +13,4 @@ ipynb
 langdetect
 google_trans_new
 googletrans
+stopwordsiso
