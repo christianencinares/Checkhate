@@ -6,5 +6,10 @@ plotly
 matplotlib
 sklearn
 keras
+tensorflow
 seaborn
-# wordcloud
+wordcloud
+ipynb
+langdetect
+google_trans_new
+googletrans
